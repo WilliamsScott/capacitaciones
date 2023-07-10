@@ -1,0 +1,35 @@
+{
+    "short_name": "Capacitaciones",
+    "name": "Capacitaciones",
+    "icons": [
+      {
+        "src": "3784896.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "3784896.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#003A8C",
+    "gcm_sender_id": "548061389725",
+    "description": "Capacitaciones Mimbral 2021",
+    "screenshots": [
+      {
+        "src": "3784896.png",
+        "type": "image/png",
+        "sizes": "540x720"
+      },
+      {
+        "src": "3784896.png",
+        "type": "image/png",
+        "sizes": "540x720"
+      }
+    ]
+  }
